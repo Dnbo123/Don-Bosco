@@ -1,2 +1,3 @@
-# Don-Bosco
-Don's personal respiratory
+# About me
+Interestest in innovative technology and Data Science
+### Javascript,Python,Product management
